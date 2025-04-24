@@ -4,6 +4,25 @@
 No mounting, no weird loop devices, no root installs (except for optional symlink). Perfect for developers who like clean, portable setups.
 
 ---
+## 🏴‍☠️ Motivation
+As the Captain of a lean, fast-moving development vessel, I sought a way to sail with Cursor — a powerful, AI-driven code editor distributed as an AppImage. But alas! The sea was not smooth...
+
+AppImages, though mighty and self-contained, often feel like stowaways in a native Linux port:
+
+No clean install trail
+
+No terminal command
+
+No place in the ship’s log (menu)
+
+⚓ So I charted a new course — to tame the AppImage beast, hoist it aboard, and give it a proper berth in the crew.
+
+Thus was born this script: a simple yet potent tool to extract, install, and register AppImages like native mates. While Cursor sparked the voyage, this script welcomes all AppImages aboard — any tool you trust to join your coding fleet.
+
+Let it be known across the terminal tides:
+
+🧭 A true Captain installs apps with control, clarity, and no unnecessary root permissions.
+---
 
 ## ⚙️ Features
 
@@ -82,3 +101,21 @@ MIT — free for all sailors of open seas and open source.
 
 Built by [Captain Jack](https://github.com/juaose) for pragmatic pirates and Linux lovers.  
 Raise a flag or submit an issue if you hit rough waters ⚓
+
+---
+                   ____
+                 /____ \           
+       ________|___  \_|___      
+     /              ||    \      
+    |   PIRATE-CODE ||     |     
+     \______________||____/      
+      |__________________|       
+     /  (_)   PIRATE     (_) \   
+     \      INSTALL CREW     /   
+      \____________________/     
+       //  ||       ||  \\
+      (_|  ||_______||  |_)
+         \_/         \_/
+         
+🏴‍☠️  May your binaries be extractable, your permissions non-root,
+     and your apps forever launchable from `/usr/local/bin`.
